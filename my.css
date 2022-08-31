@@ -1,11 +1,12 @@
 *{
     padding: 0%;
     font-family: 'Courier New', Courier, monospace;
-    margin-top: 7%;
     font-size: 8mm;
+    font-weight: bold;
 }
 body{
     background: lightblue;
+    margin-top: 14%;
 }
 .more{
     text-decoration: none;
