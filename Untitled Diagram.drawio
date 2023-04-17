@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T07:03:11.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="MlYbfEvfQdaq5EMS0Zdz" version="21.1.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-17T07:04:14.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="CD9wU4X2wAc6MZ86ImZv" version="21.1.4" type="github" pages="4">
   <diagram id="QWj5j5rqvdNmE8N8yoSe" name="KTEL Current Process">
     <mxGraphModel dx="1272" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1027,7 +1027,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AlQ7yUb0FizEvCFn71bU" name="Revision of chart">
-    <mxGraphModel dx="2120" dy="928" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1817" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1223,7 +1223,7 @@
           <mxGeometry x="733" y="62" width="237" height="198" as="geometry" />
         </mxCell>
         <mxCell id="-PcraS6v_TEESFhksVEO-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Receive&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13.3;fontFamily=Helvetica;fontColor=#3a414a;" vertex="1" parent="1">
-          <mxGeometry x="1048" y="115" width="86" height="34" as="geometry" />
+          <mxGeometry x="1046" y="122" width="86" height="34" as="geometry" />
         </mxCell>
         <mxCell id="-PcraS6v_TEESFhksVEO-5" value="" style="shape=singleArrow;arrowWidth=0.5;arrowSize=0.21988636363636366;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;rotation=90;fillColor=#ffdda6;strokeWidth=0.8;html=1;" vertex="1" parent="1">
           <mxGeometry x="1311" y="656" width="144" height="43" as="geometry" />
@@ -1249,7 +1249,7 @@
           <mxGeometry x="1808" y="565" width="228" height="173" as="geometry" />
         </mxCell>
         <mxCell id="-PcraS6v_TEESFhksVEO-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Receive&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13.3;fontFamily=Helvetica;fontColor=#3a414a;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="629" width="86" height="34" as="geometry" />
+          <mxGeometry x="2318" y="612" width="86" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
