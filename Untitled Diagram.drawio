@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T06:14:01.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="e2kRKTIl1eWl0RM67SOr" version="21.1.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-17T07:03:11.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="MlYbfEvfQdaq5EMS0Zdz" version="21.1.4" type="github" pages="4">
   <diagram id="QWj5j5rqvdNmE8N8yoSe" name="KTEL Current Process">
     <mxGraphModel dx="1272" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1027,7 +1027,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AlQ7yUb0FizEvCFn71bU" name="Revision of chart">
-    <mxGraphModel dx="3180" dy="1393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2120" dy="928" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1153,7 +1153,7 @@
           <mxGeometry x="1208" y="824" width="20" height="1" as="geometry" />
         </mxCell>
         <mxCell id="cXABbmT9r-er437TXqNW-27" value="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:12.7px;color:#4c535d;font-family: Roboto;&quot;&gt;tutorialservicesktel.com&lt;/span&gt;&lt;span style=&quot;font-size:12.7px;color:#4c535d;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;lucidId=J4EPbvNMZyX5;" vertex="1" parent="1">
-          <mxGeometry x="1248" y="815" width="156" height="25" as="geometry" />
+          <mxGeometry x="1245.5" y="816" width="156" height="25" as="geometry" />
         </mxCell>
         <mxCell id="cXABbmT9r-er437TXqNW-28" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#fc9432;&quot;&gt;KTEL&lt;/span&gt;&lt;span style=&quot;font-size:13.3px;color:#3a414a;&quot;&gt;: Homepage&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f2f3f5;strokeWidth=0.8;lucidId=M6EP1gNF-~q6;" vertex="1" parent="1">
           <mxGeometry x="1110" y="794" width="139" height="21" as="geometry" />
@@ -1220,7 +1220,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-PcraS6v_TEESFhksVEO-1" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/3254b4e1-76e5-4869-8675-22a69b0db96c/content;imageAspect=0;lucidId=myWKsRoSJcF2;" vertex="1" parent="1">
-          <mxGeometry x="774" y="105" width="155" height="109" as="geometry" />
+          <mxGeometry x="733" y="62" width="237" height="198" as="geometry" />
         </mxCell>
         <mxCell id="-PcraS6v_TEESFhksVEO-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Receive&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13.3;fontFamily=Helvetica;fontColor=#3a414a;" vertex="1" parent="1">
           <mxGeometry x="1048" y="115" width="86" height="34" as="geometry" />
@@ -1246,7 +1246,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-PcraS6v_TEESFhksVEO-10" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/3254b4e1-76e5-4869-8675-22a69b0db96c/content;imageAspect=0;lucidId=myWKsRoSJcF2;" vertex="1" parent="1">
-          <mxGeometry x="1853" y="623" width="155" height="109" as="geometry" />
+          <mxGeometry x="1808" y="565" width="228" height="173" as="geometry" />
         </mxCell>
         <mxCell id="-PcraS6v_TEESFhksVEO-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Receive&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13.3;fontFamily=Helvetica;fontColor=#3a414a;" vertex="1" parent="1">
           <mxGeometry x="2320" y="629" width="86" height="34" as="geometry" />
