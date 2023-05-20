@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T11:44:22.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Ob7nA0mz5VL09ijRLa9G" version="21.3.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-05-20T00:54:42.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zvd-sRQvN8r-IA27CKYT" version="21.3.2" type="github" pages="10">
   <diagram id="QWj5j5rqvdNmE8N8yoSe" name="KTEL Current Process">
-    <mxGraphModel dx="2345" dy="1056" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="832" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1029,8 +1029,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="AlQ7yUb0FizEvCFn71bU" name="Revision of chart">
-    <mxGraphModel dx="4097" dy="1851" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="AlQ7yUb0FizEvCFn71bU" name="Proposed System">
+    <mxGraphModel dx="2333" dy="1202" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
