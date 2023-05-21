@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T00:58:29.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QTqsRTheGdNUZ1Risv0R" version="21.3.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-21T01:01:14.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="IxKoOSHEWaKi3Nw7eIeE" version="21.3.2" type="github" pages="11">
   <diagram id="QWj5j5rqvdNmE8N8yoSe" name="KTEL Current Process">
     <mxGraphModel dx="1909" dy="998" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2529,7 +2529,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9b_BXoW-EufwK4SbfOQD" name="Use Case Diagram">
-    <mxGraphModel dx="3225" dy="1453" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1613" dy="726" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2856,13 +2856,13 @@
         <mxCell id="lXS4b2FekGxOyRniBXZ3-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lXS4b2FekGxOyRniBXZ3-3" target="VZTTy3LnKq_5yY_SQ9De-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lXS4b2FekGxOyRniBXZ3-3" value="Course Details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lXS4b2FekGxOyRniBXZ3-3" value="View Course Details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="641" y="263" width="108" height="37" as="geometry" />
         </mxCell>
         <mxCell id="lXS4b2FekGxOyRniBXZ3-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lXS4b2FekGxOyRniBXZ3-7" target="VZTTy3LnKq_5yY_SQ9De-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lXS4b2FekGxOyRniBXZ3-7" value="Chapters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lXS4b2FekGxOyRniBXZ3-7" value="View Chapters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="641" y="328" width="108" height="37" as="geometry" />
         </mxCell>
         <mxCell id="lXS4b2FekGxOyRniBXZ3-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VZTTy3LnKq_5yY_SQ9De-121" target="VZTTy3LnKq_5yY_SQ9De-122">
