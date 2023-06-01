@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T12:41:56.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-1AAK8Y8pJCDBKgQnYf3" version="21.3.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-01T07:06:58.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="eS50--CG5QeBZaoaRklo" version="21.3.6" type="github" pages="13">
   <diagram id="QWj5j5rqvdNmE8N8yoSe" name="KTEL Current Process">
-    <mxGraphModel dx="2036" dy="776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1867" dy="807" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,7 +246,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KTEL Teacher/Customer Diagram" id="FIIXcnWz085rzfldTE29">
-    <mxGraphModel dx="2240" dy="968" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2800" dy="1210" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -758,7 +758,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ulw-Lfc0ZMPi1H0FI7Lq" name="KTEL Admin Diagram">
-    <mxGraphModel dx="1723" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2036" dy="880" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1000,7 +1000,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AlQ7yUb0FizEvCFn71bU" name="Proposed System">
-    <mxGraphModel dx="3200" dy="1383" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2036" dy="880" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1042,7 +1042,7 @@
         <mxCell id="cXABbmT9r-er437TXqNW-4" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/2bd9658d-0d79-4cc4-ba22-f0105dff800c/content;imageAspect=0;lucidId=muDPZnpQkwA4;" parent="1" vertex="1">
           <mxGeometry x="290" y="1189.5" width="197" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="cXABbmT9r-er437TXqNW-5" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:23.3px;color:#3a414a;font-weight: bold;&quot;&gt;Customers&#xa;(&lt;/span&gt;&lt;span style=&quot;font-size:20px;color:#3a414a;font-weight: bold;&quot;&gt;Registered&lt;/span&gt;&lt;span style=&quot;font-size:23.3px;color:#3a414a;font-weight: bold;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=muDP8-pCMy~v;" parent="1" vertex="1">
+        <mxCell id="cXABbmT9r-er437TXqNW-5" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:23.3px;color:#3a414a;font-weight: bold;&quot;&gt;Learners&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;font-size:20px;color:#3a414a;font-weight: bold;&quot;&gt;Registered&lt;/span&gt;&lt;span style=&quot;font-size:23.3px;color:#3a414a;font-weight: bold;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=muDP8-pCMy~v;" parent="1" vertex="1">
           <mxGeometry x="296.5" y="1337" width="180" height="67" as="geometry" />
         </mxCell>
         <mxCell id="cXABbmT9r-er437TXqNW-6" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/197c22d6-fd3b-45a9-bba7-5aeea2a39dfa/content;imageAspect=0;lucidId=eTDPIRGPP.Gz;" parent="1" vertex="1">
@@ -1208,7 +1208,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VECIlKRr_-mChN9FADQx" name="DESIGN MODEL">
-    <mxGraphModel dx="2283" dy="646" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1970" dy="484" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1385,7 +1385,7 @@
         </mxCell>
         <mxCell id="CK5TfmYXXKdcRr0pXL46-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9B9D0B;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="Vqzlqqm2RMjhuAjOvoSb-48" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="302" y="479" as="sourcePoint" />
+            <mxPoint x="303" y="481" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="302" y="479" />
               <mxPoint x="282" y="479" />
