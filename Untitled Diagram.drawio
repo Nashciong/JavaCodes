@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T14:33:20.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hzR52JBGPyZ96TmD7ul0" version="21.6.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-07-10T14:43:52.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HlKBLpwaqbczAgx-A-jQ" version="21.6.1" type="github" pages="13">
   <diagram id="QWj5j5rqvdNmE8N8yoSe" name="KTEL Current Process">
     <mxGraphModel dx="1050" dy="541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2161,7 +2161,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Learner Module" id="lZjr7yFkMCNOZBqcqiXr">
-    <mxGraphModel dx="2450" dy="691" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="P4ZOFhQ3sL4dBNW8i09p-0" />
         <mxCell id="P4ZOFhQ3sL4dBNW8i09p-1" parent="P4ZOFhQ3sL4dBNW8i09p-0" />
@@ -2256,14 +2256,6 @@
             <Array as="points">
               <mxPoint x="377" y="308" />
               <mxPoint x="456" y="308" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dXVWl0082qxL6IYh2PG6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#9B9D0B;" parent="P4ZOFhQ3sL4dBNW8i09p-1" source="P4ZOFhQ3sL4dBNW8i09p-28" target="frbXYn5ZdO7RRo8kAtpX-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="377" y="308" />
-              <mxPoint x="312" y="308" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2411,12 +2403,6 @@
             <mxPoint x="278" y="500" as="sourcePoint" />
             <mxPoint x="328" y="450" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Aq7E_dPjZc34GCdaN1v2-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#9B9D0B;" parent="P4ZOFhQ3sL4dBNW8i09p-1" source="frbXYn5ZdO7RRo8kAtpX-1" target="P4ZOFhQ3sL4dBNW8i09p-47" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="frbXYn5ZdO7RRo8kAtpX-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Chatbox&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F9D2F2;strokeColor=#9B9D0B;" parent="P4ZOFhQ3sL4dBNW8i09p-1" vertex="1">
-          <mxGeometry x="252" y="360" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="frbXYn5ZdO7RRo8kAtpX-2" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Pre-made&amp;nbsp;&lt;br&gt;Package&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F9D2F2;strokeColor=#9B9D0B;" parent="P4ZOFhQ3sL4dBNW8i09p-1" vertex="1">
           <mxGeometry x="396.01" y="360" width="120" height="36" as="geometry" />
