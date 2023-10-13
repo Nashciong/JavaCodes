@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T07:19:56.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="OB52138HTP_2VvRoZJBT" version="22.0.4" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-10-13T08:21:04.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Sz0c6oOLA7Too7zyhUN9" version="22.0.4" type="github" pages="15">
   <diagram id="QWj5j5rqvdNmE8N8yoSe" name="KTEL Current Process">
     <mxGraphModel dx="2100" dy="1068" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2426,7 +2426,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="u1aGOKbKGsssPv7LPS6z" name="Visitor Module">
-    <mxGraphModel dx="1318" dy="569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="534" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3635,7 +3635,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xZ3wCxqaDYyj-hSrJ9LI" name="ERD-12/10/2023">
-    <mxGraphModel dx="2733" dy="2387" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="2268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4091,37 +4091,6 @@
         <mxCell id="DA29D_8w_h1ghQRIbobf-217" value="subject_desc" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="DA29D_8w_h1ghQRIbobf-215" vertex="1">
           <mxGeometry x="29.75" width="205.25" height="34" as="geometry">
             <mxRectangle width="205.25" height="34" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DA29D_8w_h1ghQRIbobf-218" value="tbl_ktel_statuses&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;tbl_ktel_users&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:14}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;/span&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2354" y="898" width="235" height="95.64996337890625" as="geometry">
-            <mxRectangle x="184" y="-300" width="65" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DA29D_8w_h1ghQRIbobf-219" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="DA29D_8w_h1ghQRIbobf-218" vertex="1">
-          <mxGeometry y="30" width="235" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DA29D_8w_h1ghQRIbobf-220" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="DA29D_8w_h1ghQRIbobf-219" vertex="1">
-          <mxGeometry width="29.75" height="30" as="geometry">
-            <mxRectangle width="29.75" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DA29D_8w_h1ghQRIbobf-221" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;availableteacher_id&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:19}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;/span&gt;&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;availableteacher_id&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:19}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;/span&gt;status_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="DA29D_8w_h1ghQRIbobf-219" vertex="1">
-          <mxGeometry x="29.75" width="205.25" height="30" as="geometry">
-            <mxRectangle width="205.25" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DA29D_8w_h1ghQRIbobf-222" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="DA29D_8w_h1ghQRIbobf-218" vertex="1">
-          <mxGeometry y="60" width="235" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="DA29D_8w_h1ghQRIbobf-223" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="DA29D_8w_h1ghQRIbobf-222" vertex="1">
-          <mxGeometry width="29.75" height="35" as="geometry">
-            <mxRectangle width="29.75" height="35" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DA29D_8w_h1ghQRIbobf-224" value="status_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="DA29D_8w_h1ghQRIbobf-222" vertex="1">
-          <mxGeometry x="29.75" width="205.25" height="35" as="geometry">
-            <mxRectangle width="205.25" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DA29D_8w_h1ghQRIbobf-243" value="tbl_ktel_social_apps&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;tbl_ktel_users&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:14}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;/span&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
@@ -4636,7 +4605,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DA29D_8w_h1ghQRIbobf-401" value="tbl_ktel_profile&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;tbl_ktel_users&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:14}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;/span&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1461" y="928" width="235" height="126.15008544921875" as="geometry">
+          <mxGeometry x="2015" y="40" width="235" height="126.15008544921875" as="geometry">
             <mxRectangle x="184" y="-300" width="65" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -5240,7 +5209,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DA29D_8w_h1ghQRIbobf-572" value="tbl_ktel_feedback&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;tbl_ktel_users&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:14}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;/span&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2369" y="560.15" width="235" height="183" as="geometry">
+          <mxGeometry x="2250" y="315" width="235" height="183" as="geometry">
             <mxRectangle x="184" y="-300" width="65" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -5398,12 +5367,6 @@
             <mxPoint x="2193" y="864.15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DA29D_8w_h1ghQRIbobf-615" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DA29D_8w_h1ghQRIbobf-402" target="DA29D_8w_h1ghQRIbobf-110" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1882" y="863.15" as="sourcePoint" />
-            <mxPoint x="1982" y="763.15" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DA29D_8w_h1ghQRIbobf-616" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1614" y="600" as="sourcePoint" />
@@ -5457,6 +5420,37 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1321" y="901" as="sourcePoint" />
             <mxPoint x="1421" y="801" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DA29D_8w_h1ghQRIbobf-218" value="tbl_ktel_statuses&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;tbl_ktel_users&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:14}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;/span&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2279" y="567" width="235" height="95.64996337890625" as="geometry">
+            <mxRectangle x="184" y="-300" width="65" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DA29D_8w_h1ghQRIbobf-219" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="DA29D_8w_h1ghQRIbobf-218" vertex="1">
+          <mxGeometry y="30" width="235" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DA29D_8w_h1ghQRIbobf-220" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="DA29D_8w_h1ghQRIbobf-219" vertex="1">
+          <mxGeometry width="29.75" height="30" as="geometry">
+            <mxRectangle width="29.75" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DA29D_8w_h1ghQRIbobf-221" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;availableteacher_id&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:19}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;/span&gt;&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;availableteacher_id&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:19}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;/span&gt;status_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="DA29D_8w_h1ghQRIbobf-219" vertex="1">
+          <mxGeometry x="29.75" width="205.25" height="30" as="geometry">
+            <mxRectangle width="205.25" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DA29D_8w_h1ghQRIbobf-222" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="DA29D_8w_h1ghQRIbobf-218" vertex="1">
+          <mxGeometry y="60" width="235" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="DA29D_8w_h1ghQRIbobf-223" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="DA29D_8w_h1ghQRIbobf-222" vertex="1">
+          <mxGeometry width="29.75" height="35" as="geometry">
+            <mxRectangle width="29.75" height="35" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DA29D_8w_h1ghQRIbobf-224" value="status_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="DA29D_8w_h1ghQRIbobf-222" vertex="1">
+          <mxGeometry x="29.75" width="205.25" height="35" as="geometry">
+            <mxRectangle width="205.25" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
